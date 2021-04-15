@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monika-hue.
-- 👀 I’m interested in ...
+- 👀 I’m interested in making projects on different languages.
 - 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate  
 - 📫 How to reach me at 7498380436
 
 <!---
